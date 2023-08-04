@@ -1,2 +1,2 @@
-## projetocss-transitions
-### Repositório do projeto de estudo em css transitions 
+## Cobol
+### Repositório destinado ao armazenamento dos estudos de Cobol
